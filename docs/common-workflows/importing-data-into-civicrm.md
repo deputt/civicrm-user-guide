@@ -394,16 +394,16 @@ the following fields:
 -   Contact Id or External Identifier or all the fields used in your
     Unsupervised Duplicate Matching rule (to match to an existing
     contact)
--   Financial Type
--   Total Amount
+-   Financial Type (to match an existing text, eg. Campaign Contribution, Donation, Event Fee, Member Dues)
+-   Total Amount
 
 If you want to **update existing contributions,** your CSV file must
 include at least the following fields:
 
 -   Transaction ID or Invoice ID or Payment ID (to match to an existing
     contribution)
--   Financial Type
--   Total Amount
+-   Financial Type (to match an existing text, eg. Campaign Contribution, Donation, Event Fee, Member Dues)
+-   Total Amount
 
 You can use also use **update existing contributions** to import new or
 change existing data in other core or custom contribution fields. When
